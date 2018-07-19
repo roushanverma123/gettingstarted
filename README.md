@@ -1,2 +1,7 @@
 # gettingstarted
-this is a getting started python app for my github account
+
+
+this is a getting started with python stuff
+
+
+some basic beginner programs  s
